@@ -1,0 +1,3 @@
+![image](https://github.com/abhijitray7810/100-Days-of-Cloud-Azure-Kodekloud/blob/afbb6fa0a13366ab1032b73c045064b5882c9b00/Day%202%3A%20Create%20an%20Azure%20Virtual%20Machine/Screenshot%202026-02-06%20181410.png)
+![image](https://github.com/abhijitray7810/100-Days-of-Cloud-Azure-Kodekloud/blob/afbb6fa0a13366ab1032b73c045064b5882c9b00/Day%202%3A%20Create%20an%20Azure%20Virtual%20Machine/Screenshot%202026-02-06%20181426.png)
+![image](https://github.com/abhijitray7810/100-Days-of-Cloud-Azure-Kodekloud/blob/afbb6fa0a13366ab1032b73c045064b5882c9b00/Day%202%3A%20Create%20an%20Azure%20Virtual%20Machine/Screenshot%202026-02-06%20181437.png)
