@@ -7,7 +7,7 @@ The Nautilus DevOps team is executing a phased migration of infrastructure to th
 This project demonstrates the creation of a foundational Azure networking component — a **Virtual Network (VNet)** — which serves as the backbone for cloud infrastructure.
 
 ---
-![image]()
+![image](https://github.com/abhijitray7810/100-Days-of-Cloud-Azure-Kodekloud/blob/812961e33dcbbd21339af96e3320b7c666fcee3a/Day%204%3A%20Create%20a%20Virtual%20Network%20(VNet)%20in%20Azure/Screenshot%202026-03-17%20173809.png)
 ## 🎯 Objective
 
 Create a Virtual Network named **`devops-vnet`** in the **Central US** region with a valid IPv4 CIDR block.
