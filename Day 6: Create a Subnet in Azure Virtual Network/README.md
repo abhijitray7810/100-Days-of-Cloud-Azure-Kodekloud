@@ -1,5 +1,5 @@
 # 🚀 Azure VNet Setup - Incremental Cloud Migration (DevOps Project)
-![image]()
+![image](https://github.com/abhijitray7810/100-Days-of-Cloud-Azure-Kodekloud/blob/ce1979f4854ed24e296892fa6640566ad165c360/Day%206%3A%20Create%20a%20Subnet%20in%20Azure%20Virtual%20Network/Screenshot%202026-03-21%20204654.png)
 ## 📌 Project Overview
 As part of an incremental cloud migration strategy, this project demonstrates how to create a Virtual Network (VNet) and subnet in Microsoft Azure.
 
