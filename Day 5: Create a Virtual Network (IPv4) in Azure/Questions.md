@@ -3,7 +3,6 @@ The Nautilus DevOps team is strategically planning the migration of a portion of
 Create a Virtual Network (VNet) named nautilus-vnet in the southcentralus region with 192.168.0.0/24 IPv4 CIDR. 
 
 
-
 Use below given Azure Credentials: (You can run the showcreds command on the azure-client host to retrieve credentials)
 
 Portal URL	https://portal.azure.com 
