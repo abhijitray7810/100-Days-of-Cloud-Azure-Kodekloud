@@ -1,2 +1,2 @@
 ![image](https://github.com/abhijitray7810/100-Days-of-Cloud-Azure-Kodekloud/blob/bd3d33e41964bc448d40377880cc8db93b803ed9/Day%2011%3A%20Change%20Azure%20Virtual%20Machine%20Size%20Using%20Console/Screenshot%202026-03-31%20221725.png)
-![image]()
+![image](https://github.com/abhijitray7810/100-Days-of-Cloud-Azure-Kodekloud/blob/2979a445a28b75224a002f4cff580188674ff5e6/Day%2011%3A%20Change%20Azure%20Virtual%20Machine%20Size%20Using%20Console/Screenshot%202026-03-31%20221734.png)
