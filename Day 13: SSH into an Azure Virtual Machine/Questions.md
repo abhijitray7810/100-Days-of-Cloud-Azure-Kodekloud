@@ -1,0 +1,29 @@
+The Nautilus DevOps team is working on setting up secure SSH access for their virtual machines in Azure. One of the requirements is to add the SSH public key of the root user from the Azure client host (landing host) to the nautilus-vm Azure VM's authorized_keys file. This ensures secure and password-less SSH access to the VM.
+
+Task Details:
+1) VM Details:
+
+The VM is named nautilus-vm and is running in the southcentralus region. The default SSH user is azureuser — use this user to connect to the VM.
+You need to add the root user's SSH public key from the Azure client host to the authorized_keys file of the VM's root user.
+The SSH public key of the root user on the Azure client host is located at /root/.ssh/id_rsa.pub.
+2) Public Key Addition:
+
+Copy the public key located at /root/.ssh/id_rsa.pub on the Azure client host to the authorized_keys file of the root user on nautilus-vm.
+Ensure that the proper permissions for the .ssh folder and authorized_keys file are set on the VM.
+3) Verification:
+
+After adding the public key, make sure that you are able to SSH into the nautilus-vm VM as the root user from the Azure client host without needing a password.
+Important Notes:
+Ensure that the VM is up and running before attempting to SSH.
+You may need to adjust the firewall or security group rules for the VM to allow SSH access.
+
+Use the following Azure credentials to access the Azure portal:
+
+Portal URL	https://portal.azure.com
+Username	kk_lab_user_main-27faec1a939442a4@azurefreekmlprod.onmicrosoft.com
+Password	wrkj@8py
+Start Time	Thu Apr 02 11:20:36 UTC 2026
+End Time	Thu Apr 02 12:20:36 UTC 2026
+
+
+
