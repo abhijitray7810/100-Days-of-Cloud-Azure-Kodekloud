@@ -4,7 +4,7 @@ An existing VM named nautilus-vm-pip and a public IP address named nautilus-pip 
 
 Attach the public IP nautilus-pip to the network interface of the M nautilus-vm-pip. 
 Make sure the VM is properly assigned the public IP.
-
+ 
 
 
 Use below given Azure Credentials: (You can run the showcreds command on the azure-client host to retrieve credentials)
