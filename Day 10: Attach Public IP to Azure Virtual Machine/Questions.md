@@ -2,7 +2,7 @@ The Nautilus DevOps team has already set up a virtual machine and allocated a pu
 
 An existing VM named nautilus-vm-pip and a public IP address named nautilus-pip already exist.
 
-Attach the public IP nautilus-pip to the network interface of the VM nautilus-vm-pip. 
+Attach the public IP nautilus-pip to the network interface of the M nautilus-vm-pip. 
 Make sure the VM is properly assigned the public IP.
 
 
