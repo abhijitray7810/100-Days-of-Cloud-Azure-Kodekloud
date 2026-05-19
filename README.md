@@ -1,1 +1,1 @@
-# 100-Days-of-Cloud-Azure-Kodekloud
+# 47-Days-of-Cloud-Azure-Kodekloud
